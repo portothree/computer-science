@@ -107,6 +107,12 @@ just remember that you can't purchase success!
 ## Prerequisites
 
 - [Core CS](#core-cs) assumes the student has already taken [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites), including algebra, geometry, and pre-calculus.
+  - [Arithmetics](https://www.khanacademy.org/math/arithmetic#arithmetic-subject-challenge)
+  - [Basic Geometry](https://www.khanacademy.org/math/basic-geo#basic-geo-subject-challenge)
+  - [Pre-algebra](https://www.khanacademy.org/math/pre-algebra#pre-algebra-subject-challenge)
+  - [High School Math 1](https://www.khanacademy.org/math/math1#math1-subject-challenge)
+  - [High School Math 2](https://www.khanacademy.org/math/math2#math2-subject-challenge)
+  - [High School Math 3](https://www.khanacademy.org/math/math3#math3-subject-challenge)
 - [Advanced CS](#advanced-cs) assumes the student has already taken the entirety of Core CS
 and is knowledgeable enough now to decide which electives to take.
 - Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
